@@ -6,7 +6,7 @@
 
 ![](../../.gitbook/assets/2.png)
 
-## 문제 풀이에 대한 아이디
+## My Think
 
 
 
