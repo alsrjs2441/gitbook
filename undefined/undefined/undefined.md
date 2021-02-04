@@ -20,7 +20,11 @@
 
    가장 앞에 있는 원소를 없애면서 계
 
+
+
 ## 내 코드
+
+
 
 ```text
 import java.util.*;
@@ -55,4 +59,6 @@ class Solution {
     }
 }
 ```
+
+
 
